@@ -1,0 +1,49 @@
+
+
+.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+.header {
+  background-color: #111;
+  padding: 0;
+}
+
+.head{
+  color:red;
+}
+
+
+
+nav {
+  background: #222;
+  padding: 5px 20px;
+  display: block;
+}
+
+
+li{
+  display: inline-block;
+  padding-inline-start: 25px;
+}
+li:hover {
+  text-decoration: none;
+}
+
+
+.userinfo{
+
+  align-items: center;
+  justify-content: center;
+  margin: 15px auto;
+  padding-left: 25px;;
+
+}
+
+table, th, td{
+  justify-content: center;
+
+  border: 1px solid black;
+}
+

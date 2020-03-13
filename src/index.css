@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Login-form {
+  width: 340px;
+   margin: 50px auto;
+}
+
+.Login-form form {
+   margin-bottom: 15px;
+    background:white;
+    
+    padding: 30px;
+}
+.Login-form h2 {
+    text-align: center;
+    
+}
+
+
+.form-group{
+
+border-radius: 15px;
+}
+
+
+
+.form-control, .btn {
+
+    min-height: 38px;
+    border-radius: 5px;
+}
+
+.btn {        
+    font-size: 15px;
+    font-weight: bold;
+}
